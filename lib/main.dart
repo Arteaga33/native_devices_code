@@ -1,7 +1,8 @@
 //The code doesn't compile.
 //The paths that were edited to use JAVA / Kotlin for android or Objective C / Swift
-//Those are android/app/src/main/java/com/MainActivity.java and 
+//Those are android/app/src/main/java/com/MainActivity.java and ios/Runner/AppDelegate.m
 //The issue in MainActivity got solved, but it only works for Lollipop and newer.
+//Needs to be tested on IOS to see if it works properly.
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
